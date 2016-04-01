@@ -15,7 +15,7 @@ html {
 body {
     font-size: 1.6rem;
     font-family: "Source Sans Pro", sans-serif;
-    background-image: url(../img/Photography-Camera-HD-Wallpaper2.jpg);
+    background-image: url(../img/billwhite.jpg);
 }
 a {
     color: #9acd91;
@@ -338,7 +338,7 @@ add-content navigation style
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
-    background-color: #8ac57f;
+    background-color: midnightblue;
     -webkit-transition: width 0.2s, box-shadow 0.2s;
     -moz-transition: width 0.2s, box-shadow 0.2s;
     transition: width 0.2s, box-shadow 0.2s;
@@ -355,7 +355,7 @@ add-content navigation style
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
-    background-color: #9acd91;
+    background-color: darkblue;
 }
 .cd-stretchy-nav.add-content .cd-nav-trigger span {
     background-color: transparent;
