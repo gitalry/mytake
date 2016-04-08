@@ -1,4 +1,4 @@
-/* --------------------------------
+/* -------------------------------- 
 
 Primary style
 
@@ -15,7 +15,7 @@ html {
 body {
     font-size: 1.6rem;
     font-family: "Source Sans Pro", sans-serif;
-    background-image: url(../img/billwhite.jpg);
+    background-image: url(../img/Photography-Camera-HD-Wallpaper2.jpg);
 }
 a {
     color: #9acd91;
@@ -25,7 +25,7 @@ img {
     max-width: 100%;
 }
 
-/* --------------------------------
+/* -------------------------------- 
 
 Stretchy Nav style - common to:
  - basic navigation
@@ -312,7 +312,7 @@ Stretchy Nav style - common to:
     animation-delay: 0.25s;
 }
 
-/* --------------------------------
+/* -------------------------------- 
 
 add-content navigation style
 
@@ -338,7 +338,7 @@ add-content navigation style
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
-    background-color: midnightblue;
+    background-color: #8ac57f;
     -webkit-transition: width 0.2s, box-shadow 0.2s;
     -moz-transition: width 0.2s, box-shadow 0.2s;
     transition: width 0.2s, box-shadow 0.2s;
@@ -355,7 +355,7 @@ add-content navigation style
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
-    background-color: darkblue;
+    background-color: #9acd91;
 }
 .cd-stretchy-nav.add-content .cd-nav-trigger span {
     background-color: transparent;
@@ -518,7 +518,7 @@ add-content navigation style
     transform: translateX(0);
 }
 
-/* --------------------------------
+/* -------------------------------- 
 
 edit content
 
@@ -706,7 +706,7 @@ edit content
     transform: translateX(0);
 }
 
-/* --------------------------------
+/* -------------------------------- 
 
 main content basic style
 
@@ -739,7 +739,7 @@ main content basic style
     color: brown;
     padding-left: 70px;
     padding-right: 70px;
-    background-color: mediumpurple;
+    background-color: grey;
     background-size: cover;
     border-radius: 30px;
     opacity: 0.9;
@@ -749,7 +749,7 @@ td {
     font-size: 15px;
 }
 
-/* --------------------------------
+/* -------------------------------- 
 
 keyframes
 
